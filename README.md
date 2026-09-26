@@ -5,9 +5,9 @@
  欸那我覺得特別好
 
 ## 組員
-- 姓名A（@ioi2027）
-- 姓名B（@smallSheepJoseph）
-- 姓名C（@帳號）
+- 楊寬洋（@ioi2027）
+- 溫恩翰（@smallSheepJoseph）
+- 沈宗叡（@ericshen19555）
 
 ## 專案簡介
 VocaBuddy 是一個用 Google Colab 製作的英文單字練習程式。  
@@ -16,7 +16,7 @@ VocaBuddy 是一個用 Google Colab 製作的英文單字練習程式。
 ## 組員分工
 1. ioi2027：建立 Repository、邀請組員、建立 Notebook
 2. smallSheepJoseph：新增單字、加入隨機抽單字功能
-3. （請填）：整理 README、檢查程式與繳交
+3. ericshen19555：整理 README、檢查程式與繳交
 
 ## 本次新增的單字
 gadget、underestimate、uncharted、defective、doomed、erode、obsolete、trailblazer、revenue、reluctant 等（超過ln(e^e^e)\*pi\*phi個）
